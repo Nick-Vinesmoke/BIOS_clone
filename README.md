@@ -17,11 +17,13 @@ BIOS_clone
  
 🎴Overview
 ---
-![image](for_GitHub/Screenshot_4.png)
+original BIOS
 
-![image](for_GitHub/Screenshot_5.png)
+![image](for_GitHub/obios.png)
 
-![image](for_GitHub/Screenshot_6.png)
+my BIOS
+
+![image](for_GitHub/Screenshot_1.png)
 
 ---
 📲Contacts
